@@ -1,3 +1,9 @@
+/*
+* Author: Olivia, Loris, oloris2021@my.fit.edu
+* Course: CSE 1502, Section 04/05/S04 Spring 2022
+* Project: Memory.cpp
+*/
+
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
